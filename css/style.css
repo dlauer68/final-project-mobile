@@ -1,18 +1,25 @@
-
-
-.container-fluid {
-    background-color: rgb(84, 194, 211);
+* {
+    box-sizing: border-box;
 }
 
+.container-fluid {
+    background-color: rgb(163, 221, 232);
+}
 
-
-.slide-1 {
-    background-image: url(../img/556275504_IMG_0980.jpg);
-    background-attachment: fixed;
+.hero-section {
+    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url("../img/5562755504_IMG_0980.jpg");
+    height: 600px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    position: relative;
 }
+
+.card {
+    background-color: rgb(124, 55, 55);
+
+}
+
 
 .img-thumbnail {
     width: 200px;
@@ -21,5 +28,13 @@
 }
 
 .subscribe {
-    background-color: rgb(190, 78, 78);
+    background-color: rgb(163, 221, 232);
 }
+
+
+
+.d-flex {
+    background-color: rgb(163, 221, 232);
+    
+}
+
