@@ -3,7 +3,7 @@
 }
 
 .container-fluid {
-    background-color: rgb(163, 221, 232);
+    background-color: rgb(56, 194, 222);
 }
 
 .hero-section {
@@ -20,6 +20,10 @@
 
 }
 
+img {
+    width: 100%;
+}
+
 
 .img-thumbnail {
     width: 200px;
@@ -28,13 +32,13 @@
 }
 
 .subscribe {
-    background-color: rgb(163, 221, 232);
+    background-color: rgb(56, 194, 222);
 }
 
 
 
 .d-flex {
-    background-color: rgb(163, 221, 232);
+    background-color: rgb(56, 194, 222);
     
 }
 
